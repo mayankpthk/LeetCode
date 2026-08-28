@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankpthk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mayankpthk/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
