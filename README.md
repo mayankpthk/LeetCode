@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mayankpthk/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankpthk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayankpthk/LeetCode/tree/master/0027-remove-element) |
+| [0704-binary-search](https://github.com/mayankpthk/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankpthk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mayankpthk/LeetCode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/mayankpthk/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
