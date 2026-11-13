@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mayankpthk/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankpthk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/mayankpthk/LeetCode/tree/main/0383-ransom-note/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mayankpthk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/mayankpthk/LeetCode/tree/main/0383-ransom-note/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/mayankpthk/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mayankpthk/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 | Problem Name | Difficulty |
